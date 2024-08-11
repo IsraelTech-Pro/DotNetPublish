@@ -1040,3 +1040,4 @@ E:\blzore\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.dll
 E:\blzore\TaskManagerApp\obj\Debug\net8.0\refint\TaskManagerApp.dll
 E:\blzore\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.pdb
 E:\blzore\TaskManagerApp\obj\Debug\net8.0\ref\TaskManagerApp.dll
+E:\blzore\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.sourcelink.json
